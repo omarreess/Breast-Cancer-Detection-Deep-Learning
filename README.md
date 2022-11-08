@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection
+# Breast Cancer Detection
 Classification Task for Breast Cancer Medical Patients by Deep Learning Algorithm using Artificial Neural Network 
 
 # Using Deep Learing Algorithm 
